@@ -1,0 +1,9 @@
+include ':app'
+include ':sample-texture'
+include ':sample-camera'
+include ':sample-native'
+include ':sample-filter'
+include ':sample-color'
+include ':sample-basis'
+
+include ':common-base'
